@@ -12,7 +12,7 @@ client.on('ready', function(){//Toxic Codes // n3k4a is one
     type: 1,
     name: ' Dream !! ',
      url: 'https://www.twitch.tv/abdoufersaoui_dz',
-     state: `Is Coming`,
+     state: `- Z a K i . .`,
     application_id: '461468630773661699',  
      assets: {
         small_text: ' Abdou 100% Dz ' ,
