@@ -10,9 +10,9 @@ client.on('ready', function(){//Toxic Codes // n3k4a is one
   status: 'dnd', 
  game: { 
     type: 1,
-    name: ' Dream !! ',
+    name: ' :MehDi ',
      url: 'https://www.twitch.tv/abdoufersaoui_dz',
-     state: `- Z a K i . .`,
+     state: `MEhDI Dz..`,
     application_id: '461468630773661699',  
      assets: {
         small_text: ' Abdou 100% Dz ' ,
